@@ -3,9 +3,9 @@ A python script that allows you to show yourself playing a custom game on discor
 
 Steps for Installing:
 
-Install Python
-    Go to cmd and type pip install pypresence
-    Go to discord applications and create one
+Install Python,
+    go to cmd and type pip install pypresence,
+    go to discord applications and create one (https://discord.com/developers/applications).
 
 Create and Configure the Application:
 
